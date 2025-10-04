@@ -1,0 +1,36 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# PDF files (optional - you might want to keep these)
+# *.pdf
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
